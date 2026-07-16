@@ -1,0 +1,12 @@
+Javascript
+{
+   _id,
+   userId,
+   title,
+   description,
+   status,
+   priority,
+   dueDate,
+   createdAt,
+   updatedAt
+}
