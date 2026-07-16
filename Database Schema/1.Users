@@ -1,0 +1,8 @@
+Javascript
+{
+   _id,
+   name,
+   email,
+   password,
+   createdAt
+}
